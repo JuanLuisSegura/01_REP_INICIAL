@@ -1,6 +1,6 @@
 Hola, git
 
-Soy Juan Luis
+Soy Juan Luis Segura
 
 Saludos.
 
